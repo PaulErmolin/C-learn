@@ -1,0 +1,15 @@
+C:\Users\Алина Балтина\Desktop\GB\TASKS1_LECTION\TASK002_HelloUser\bin\Debug\net6.0\TASK002_HelloUser.exe
+C:\Users\Алина Балтина\Desktop\GB\TASKS1_LECTION\TASK002_HelloUser\bin\Debug\net6.0\TASK002_HelloUser.deps.json
+C:\Users\Алина Балтина\Desktop\GB\TASKS1_LECTION\TASK002_HelloUser\bin\Debug\net6.0\TASK002_HelloUser.runtimeconfig.json
+C:\Users\Алина Балтина\Desktop\GB\TASKS1_LECTION\TASK002_HelloUser\bin\Debug\net6.0\TASK002_HelloUser.dll
+C:\Users\Алина Балтина\Desktop\GB\TASKS1_LECTION\TASK002_HelloUser\bin\Debug\net6.0\TASK002_HelloUser.pdb
+C:\Users\Алина Балтина\Desktop\GB\TASKS1_LECTION\TASK002_HelloUser\obj\Debug\net6.0\TASK002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\Алина Балтина\Desktop\GB\TASKS1_LECTION\TASK002_HelloUser\obj\Debug\net6.0\TASK002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алина Балтина\Desktop\GB\TASKS1_LECTION\TASK002_HelloUser\obj\Debug\net6.0\TASK002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Алина Балтина\Desktop\GB\TASKS1_LECTION\TASK002_HelloUser\obj\Debug\net6.0\TASK002_HelloUser.AssemblyInfo.cs
+C:\Users\Алина Балтина\Desktop\GB\TASKS1_LECTION\TASK002_HelloUser\obj\Debug\net6.0\TASK002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Алина Балтина\Desktop\GB\TASKS1_LECTION\TASK002_HelloUser\obj\Debug\net6.0\TASK002_HelloUser.dll
+C:\Users\Алина Балтина\Desktop\GB\TASKS1_LECTION\TASK002_HelloUser\obj\Debug\net6.0\refint\TASK002_HelloUser.dll
+C:\Users\Алина Балтина\Desktop\GB\TASKS1_LECTION\TASK002_HelloUser\obj\Debug\net6.0\TASK002_HelloUser.pdb
+C:\Users\Алина Балтина\Desktop\GB\TASKS1_LECTION\TASK002_HelloUser\obj\Debug\net6.0\TASK002_HelloUser.genruntimeconfig.cache
+C:\Users\Алина Балтина\Desktop\GB\TASKS1_LECTION\TASK002_HelloUser\obj\Debug\net6.0\ref\TASK002_HelloUser.dll
